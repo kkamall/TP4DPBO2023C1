@@ -58,7 +58,7 @@ Download Kode PHP pada link berikut ini "https://drive.google.com/file/d/1nBMAyh
     - Menjalankan query delete data from database.
     - END.
 
-## Dokumentasi (Untuk record dapat dilihat pada file 'video_preview.mp4'):
+## Dokumentasi:
 - Member:
   - List Member:<br>
 ![member_listMember](https://github.com/kkamall/TP4DPBO2023C1/assets/101335350/febb3081-6112-4dc1-8e07-a3c417bec60e)
