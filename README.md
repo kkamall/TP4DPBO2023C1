@@ -63,7 +63,7 @@ Download Kode PHP pada link berikut ini "https://drive.google.com/file/d/1nBMAyh
   - List Member:<br>
 ![member_listMember](https://github.com/kkamall/TP4DPBO2023C1/assets/101335350/febb3081-6112-4dc1-8e07-a3c417bec60e)
   - Add Member:<br>
-![member_listMember](https://github.com/kkamall/TP4DPBO2023C1/assets/101335350/e3dec439-1239-4482-b7ec-0a5ce8de87eb)
+![member_addMember](https://github.com/kkamall/TP4DPBO2023C1/assets/101335350/0a8c1a1a-727f-4f19-bfd2-6ee313d59786)
   - Update Member:<br>
 ![member_updateMember](https://github.com/kkamall/TP4DPBO2023C1/assets/101335350/97c04f5f-0c25-4200-a196-df13ddbba005)
   - Delete Member:<br>
