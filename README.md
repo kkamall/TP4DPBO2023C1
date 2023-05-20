@@ -75,6 +75,6 @@ Download Kode PHP pada link berikut ini "https://drive.google.com/file/d/1nBMAyh
   - Add Club:<br>
 ![club_addClub](https://github.com/kkamall/TP4DPBO2023C1/assets/101335350/31599640-a8f8-4f10-9395-a656c5ecca07)
   - Update Club:<br>
-![club_addClub](https://github.com/kkamall/TP4DPBO2023C1/assets/101335350/07c573cb-ad27-4806-8e09-351896047c45)
+![club_updateClub](https://github.com/kkamall/TP4DPBO2023C1/assets/101335350/2707d7ac-6306-4f01-949f-23b68f958870)
   - Delete Club:<br>
 ![club_deleteClub](https://github.com/kkamall/TP4DPBO2023C1/assets/101335350/07219a93-0bf0-4635-a664-c31893c69313)
